@@ -24,6 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -64,5 +65,15 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="106" key="SettingsEditor" timestamp="1662385966339">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="106" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1662385966339" />
+    <state x="510" y="211" key="run.anything.popup" timestamp="1662385840137">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="510" y="211" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1662385840137" />
   </component>
 </project>
