@@ -196,7 +196,7 @@ jobs:
           path: build
 
       - name: Deploy 🚀
-        uses: WhiteHat-Coder/2D-Roguelike/github-pages-deploy-action
+        uses: WhiteHat-Coder/2D-Roguelike/github-pages-deploy-action@4.1.4
         with:
           branch: webgl
           folder: build/WebGL
